@@ -1,7 +1,8 @@
 # The Negative Impact of Denoising on Automated Classification of Electrocardiograms
 
 ### Current package structure
-The training code for the denoiser models is available at <a href="https://github.com/fperdigon/DeepFilter/tree/master">this</a> link. 
+- The training code for the denoiser models is available at <a href="https://github.com/fperdigon/DeepFilter/tree/master">this</a> link. 
+- Checkpoints and Data are available at <a href="https://drive.google.com/drive/folders/16XtygGtbCxZDFU0l9iQT8J-bLR_mp7LX?usp=sharing">this</a> link.
 ```
 Package
 Denoising+TdP/
